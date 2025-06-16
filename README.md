@@ -55,7 +55,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/prajwalmededar" target="_blank">
+  <a href="https://x.com/MededarPra7401" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/prajwal-channappa-mededar-80425325a" target="_blank">
