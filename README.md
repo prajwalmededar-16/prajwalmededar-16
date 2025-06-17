@@ -3,7 +3,7 @@
 <h4 align="center">🎓 Pre-final Year CSE Student at The Oxford College of Engineering</h4>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwalmededar-16&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmededar-16" />
+  <img src="https://komarev.com/ghpvc/?username=prajwalmededar-17&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmededar-16" />
 </p>
 
 <p align="center">
