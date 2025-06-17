@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prajwal</h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
-<h4 align="center">🎓 Pre-final Year CSE Student at The Oxford College of Engineering</h4>
+<h4 align="center">🎓 Pre-final Year CSE Student at The Oxford College of Engineering</h4>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwalmededar-17&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmededar-17" />
+  <img src="https://komarev.com/ghpvc/?username=prajwalmededar-16&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalmededar-16" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prajwalmededar-17&theme=algolia" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=prajwalmededar-16&theme=algolia" alt="Trophies" />
 </p>
 
 ---
@@ -39,15 +37,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalmededar-17&show_icons=true&theme=tokyonight" alt="Prajwal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalmededar-16&show_icons=true&theme=tokyonight" alt="Prajwal's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalmededar-17&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=prajwalmededar-16&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalmededar-17&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalmededar-16&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
